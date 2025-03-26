@@ -4,7 +4,7 @@
 /php_cs.dist export-ignore
 /phpmd.xml.dist export-ignore
 /phpstan.neon export-ignore
-
+  apk update -q
 /composer.lock export-ignore
 
 # git files
